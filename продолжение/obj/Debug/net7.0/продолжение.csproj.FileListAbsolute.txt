@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/bin/Debug/net7.0/продолжение
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/bin/Debug/net7.0/продолжение.deps.json
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/bin/Debug/net7.0/продолжение.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/bin/Debug/net7.0/продолжение.dll
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/bin/Debug/net7.0/продолжение.pdb
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.dll
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/refint/продолжение.dll
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.pdb
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/продолжение.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/Seminar 2/продолжение/obj/Debug/net7.0/ref/продолжение.dll
